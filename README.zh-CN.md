@@ -164,3 +164,16 @@ npx skills add senlindesign/proof
 ## 许可
 
 [MIT](LICENSE)
+
+## 支持我的创作
+
+Proof 免费开源。如果它帮到了你，可以用支付宝或微信打赏一点，让我能持续地做下去：
+
+<table>
+  <tr>
+    <td align="center"><img src="docs/images/support-alipay.jpg" alt="支付宝收款码" width="180"><br>支付宝</td>
+    <td align="center"><img src="docs/images/support-wechat.jpg" alt="微信收款码" width="180"><br>微信</td>
+  </tr>
+</table>
+
+海外用户也可以 [Buy me a coffee](https://buymeacoffee.com/senlin)。给仓库点个 Star、把 [proofdesign.dev](https://proofdesign.dev/zh) 分享给朋友，也是很大的支持。谢谢你！

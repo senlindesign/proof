@@ -164,3 +164,16 @@ The default output is one HTML file. Ask, and it writes code for your project's 
 ## License
 
 [MIT](LICENSE)
+
+## Support
+
+Proof is free and open source. If it helps you, you can [buy me a coffee](https://buymeacoffee.com/senlin), or use Alipay or WeChat:
+
+<table>
+  <tr>
+    <td align="center"><img src="docs/images/support-alipay.jpg" alt="Alipay QR code" width="180"><br>Alipay</td>
+    <td align="center"><img src="docs/images/support-wechat.jpg" alt="WeChat Pay QR code" width="180"><br>WeChat</td>
+  </tr>
+</table>
+
+Starring the repo and sharing [proofdesign.dev](https://proofdesign.dev) help too. Thank you!
