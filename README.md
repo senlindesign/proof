@@ -6,7 +6,7 @@
 
 ### A product design skill
 
-[![Website](https://img.shields.io/badge/Website-proofdesign.pages.dev-1F5EFF?style=flat-square)](https://proofdesign.pages.dev)
+[![Website](https://img.shields.io/badge/Website-proofdesign.dev-1F5EFF?style=flat-square)](https://proofdesign.dev)
 [![Made for Claude Code](https://img.shields.io/badge/Made%20for-Claude%20Code-blueviolet?style=flat-square&logo=anthropic)](https://docs.anthropic.com/en/docs/claude-code)
 [![Made for Codex](https://img.shields.io/badge/Made%20for-Codex-000000?style=flat-square&logo=openai)](https://openai.com/index/introducing-codex/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
@@ -19,7 +19,7 @@
 
 Proof is a product design skill for Claude Code and Codex. Tell it which page you need. It builds a complete, responsive page with a real-looking product showcase, a distinct visual style, and motion that shows your product at work. The first draft looks like a shipped product, not an AI template.
 
-**See it live → [proofdesign.pages.dev](https://proofdesign.pages.dev)** — the four styles, nine page configurations, and ten sections, each a real page the skill generated. Open any of them and scroll, hover, click.
+**See it live → [proofdesign.dev](https://proofdesign.dev)** — the four styles, nine page configurations, and ten sections, each a real page the skill generated. Open any of them and scroll, hover, click.
 
 ```bash
 /proof landing
@@ -65,9 +65,9 @@ Before delivery the skill checks its own page: layout rhythm, style fidelity, re
 
 | Minimal | Business |
 | --- | --- |
-| [![Minimal](docs/images/style-minimal.png)](https://proofdesign.pages.dev/style-minimal-relay) | [![Business](docs/images/style-business.png)](https://proofdesign.pages.dev/style-business-relay) |
+| [![Minimal](docs/images/style-minimal.png)](https://proofdesign.dev/style-minimal-relay) | [![Business](docs/images/style-business.png)](https://proofdesign.dev/style-business-relay) |
 | **Colorful** | **Editorial** |
-| [![Colorful](docs/images/style-colorful.png)](https://proofdesign.pages.dev/style-colorful-relay) | [![Editorial](docs/images/style-editorial.png)](https://proofdesign.pages.dev/style-editorial-relay) |
+| [![Colorful](docs/images/style-colorful.png)](https://proofdesign.dev/style-colorful-relay) | [![Editorial](docs/images/style-editorial.png)](https://proofdesign.dev/style-editorial-relay) |
 
 | Style | Character | Signature hero |
 | --- | --- | --- |
