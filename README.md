@@ -85,7 +85,7 @@ So one product can get two different pages: for developers who want to try it no
 
 ## What you can build
 
-[![9 configurations](docs/images/configs.jpg)](https://proofdesign.dev/#pages)
+[![8 page types](docs/images/configs.jpg)](https://proofdesign.dev/#pages)
 
 | Page type | Use it for | Archetypes |
 | --- | --- | --- |

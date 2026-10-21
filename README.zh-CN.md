@@ -85,7 +85,7 @@ npx skills add senlindesign/proof
 
 ## 能做什么
 
-[![9 种页面配置](docs/images/configs.jpg)](https://proofdesign.dev/zh#pages)
+[![8 种页面](docs/images/configs.jpg)](https://proofdesign.dev/zh#pages)
 
 | 页面类型 | 用途 | Archetype |
 | --- | --- | --- |
